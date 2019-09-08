@@ -1,14 +1,6 @@
 # Navig8
 App developed to help the visually impaired navigate through natural calamities using peer to peer audio and video streaming by creating a mesh network that does not rely on wireless or cellular connectivity in the event of a failure.
 
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/783/datas/gallery.jpg)
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/782/datas/gallery.jpg)
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/781/datas/gallery.jpg)
-![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/501/datas/gallery.jpg)
-
-
-
-
 ## Inspiration
 The moment we formed our team, we all knew we wanted to create a hack for social good which could even aid in a natural calamity. According to the reports of World Health Organization, there are 285 million people worldwide who are either blind or partially blind. Due to the relevance of this massive issue in our world today, we chose to target our technology towards people with visual impairments. After discussing several ideas, we settled on an application to ease communication and navigation during natural calamities for people with visual impairment.
 
@@ -29,3 +21,8 @@ We learned how to utilize Android Studio to create peer to peer mesh networks be
 
 ## What's next for Navig8.
 We are very proud of all that we have accomplished so far. However, this is just the beginning. Next, we would like to implement location-based mapping. In order to accomplish this, we would create a floor plan of a certain building and use cameras such as Intel’s RealSense to guide visually impaired people to the nearest exit point in a given building.
+
+![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/783/datas/gallery.jpg)
+![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/782/datas/gallery.jpg)
+![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/781/datas/gallery.jpg)
+![](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/836/501/datas/gallery.jpg)
