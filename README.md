@@ -1,4 +1,4 @@
-# Navig8
+# Navig8 (Scroll down for images)
 App developed to help the visually impaired navigate through natural calamities using peer to peer audio and video streaming by creating a mesh network that does not rely on wireless or cellular connectivity in the event of a failure.
 
 ## Inspiration
